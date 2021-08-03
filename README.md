@@ -4,7 +4,7 @@ Oii, meu nome é Igor Santana. Sou **desenvolvedor front-end** e estou cursando 
 
  - 💻 Front-end Jr.
  - 🔍 Buscando novas oportunidades.
- -<a href="https://igor-v-santana.github.io/Portfolio/">Portfólio</a>
+ - <a href="https://igor-v-santana.github.io/Portfolio/">Portfólio</a>
 
 
 <hr>
