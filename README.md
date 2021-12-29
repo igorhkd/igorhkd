@@ -1,6 +1,7 @@
 # Igor Santana!
 
-Oii, meu nome é Igor Santana. Sou **desenvolvedor front-end** e estou cursando Análise e Desenvolvimento de Sistemas. 
+Oii, meu nome é Igor Santana. Sou **desenvolvedor front-end** e estou cursando Análise e Desenvolvimento de Sistemas.
+
 Último projeto : <a href="https://igor-v-santana.github.io/SeriesApp-React/#/">Site do Projeto</a>
 
  - 💻 Front-end Jr.
