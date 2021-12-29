@@ -2,7 +2,7 @@
 
 Oii, meu nome é Igor Santana. Sou **desenvolvedor front-end** e estou cursando Análise e Desenvolvimento de Sistemas.
 
-Último projeto - <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> : <a href="https://igor-v-santana.github.io/SeriesApp-React/#/">Site do Projeto</a>
+Último projeto - <img align="center" alt="Igor-React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> : <a href="https://igor-v-santana.github.io/SeriesApp-React/#/"> Site do Projeto</a>
 
  - 💻 Front-end Jr.
  - 🔍 Buscando novas oportunidades.
