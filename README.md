@@ -3,7 +3,6 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/igor-santanaa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23483699.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://twitter.com/igorhkd" target="_blank"><img src="https://img.shields.io/badge/twitter-%23483699.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-    <a href="mailto:igor.santanahkd@gmail.com"><img src="https://img.shields.io/badge/gmail-%23483699.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 <br>
 <p align="center">👋 Olá! Eu sou o Igor Santana.</p>
@@ -31,3 +30,10 @@
 ![Obsidian](https://img.shields.io/badge/styled--components-%23483699.svg?style=for-the-badge&logo=Styled-Components&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/postgres-%23483699.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/visual--studio--code-%23483699.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+## Contatos:
+
+<a href="https://www.linkedin.com/in/igor-santanaa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23483699.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/igorhkd" target="_blank"><img src="https://img.shields.io/badge/twitter-%23483699.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="mailto:igor.santanahkd@gmail.com"><img src="https://img.shields.io/badge/gmail-%23483699.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/discord-%23483699.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter"></a>
