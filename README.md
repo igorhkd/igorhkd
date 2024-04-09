@@ -1,35 +1,33 @@
 
 
-<div>
-	Olá, eu sou o Igor 👋
+<div align="center">
+    <a href="https://www.linkedin.com/in/igor-santanaa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23483699.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://twitter.com/igorhkd" target="_blank"><img src="https://img.shields.io/badge/twitter-%23483699.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="mailto:igor.santanahkd@gmail.com"><img src="https://img.shields.io/badge/gmail-%23483699.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
-
 <br>
+<p align="center">👋 Olá! Eu sou o Igor Santana.</p>
 
-<div>
-	Desenvolvedor Fullstack
-</div>
-
-
+## Sobre mim:
+- Igor Santana
+- Desenvolvedor Full Stack
+- São Paulo - SP
 
 ## Ferramentas e Tecnologias:
-<div>
- <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
- <img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />       
- <img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
- <img alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
- <img alt="NestJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />     
- <img alt="NextJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
- <img alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
- <img alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />    
- <img alt="Jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
- <img alt="TailwindCss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
- <img alt="Storybook" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" />   
-</div>
 
- ## Contatos:
-<div> 
-	<a href="https://www.linkedin.com/in/igor-santanaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 	<a href="https://twitter.com/igorhkd" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  	<a href = "mailto:igor.santanahkd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+![Obsidian](https://img.shields.io/badge/javascript-%23483699.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Obsidian](https://img.shields.io/badge/typescript-%23483699.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Obsidian](https://img.shields.io/badge/react-%23483699.svg?style=for-the-badge&logo=react&logoColor=white)
+![Obsidian](https://img.shields.io/badge/node.js-%23483699.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Obsidian](https://img.shields.io/badge/nest.js-%23483699.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Obsidian](https://img.shields.io/badge/next-%23483699.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Obsidian](https://img.shields.io/badge/html5-%23483699.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Obsidian](https://img.shields.io/badge/css3-%23483699.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Obsidian](https://img.shields.io/badge/jest-%23483699.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Obsidian](https://img.shields.io/badge/tailwindcSS-%23483699.svg?style=for-the-badge&logo=tailwindcSS&logoColor=white)
+![Obsidian](https://img.shields.io/badge/storybook-%23483699.svg?style=for-the-badge&logo=storybook&logoColor=white)
+![Obsidian](https://img.shields.io/badge/sass-%23483699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Obsidian](https://img.shields.io/badge/git-%23483699.svg?style=for-the-badge&logo=git&logoColor=white)
+![Obsidian](https://img.shields.io/badge/styled--components-%23483699.svg?style=for-the-badge&logo=Styled-Components&logoColor=white)
+![Obsidian](https://img.shields.io/badge/postgres-%23483699.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Obsidian](https://img.shields.io/badge/visual--studio--code-%23483699.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
