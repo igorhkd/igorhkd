@@ -17,19 +17,21 @@
 ![Obsidian](https://img.shields.io/badge/javascript-%23483699.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/typescript-%23483699.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/react-%23483699.svg?style=for-the-badge&logo=react&logoColor=white)
-![Obsidian](https://img.shields.io/badge/node.js-%23483699.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Obsidian](https://img.shields.io/badge/nest.js-%23483699.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Obsidian](https://img.shields.io/badge/react_native-%23483699.svg?style=for-the-badge&logo=react&logoColor=white)
+![Obsidian](https://img.shields.io/badge/node_js-%23483699.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Obsidian](https://img.shields.io/badge/nest_js-%23483699.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/next-%23483699.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/html5-%23483699.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/css3-%23483699.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/jest-%23483699.svg?style=for-the-badge&logo=jest&logoColor=white)
-![Obsidian](https://img.shields.io/badge/tailwindcSS-%23483699.svg?style=for-the-badge&logo=tailwindcSS&logoColor=white)
+![Obsidian](https://img.shields.io/badge/tailwind_cSS-%23483699.svg?style=for-the-badge&logo=tailwindcSS&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/storybook-%23483699.svg?style=for-the-badge&logo=storybook&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/sass-%23483699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/git-%23483699.svg?style=for-the-badge&logo=git&logoColor=white)
-![Obsidian](https://img.shields.io/badge/styled--components-%23483699.svg?style=for-the-badge&logo=Styled-Components&logoColor=white)
+![Obsidian](https://img.shields.io/badge/styled_components-%23483699.svg?style=for-the-badge&logo=Styled-Components&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/postgres-%23483699.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Obsidian](https://img.shields.io/badge/visual--studio--code-%23483699.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Obsidian](https://img.shields.io/badge/visual_studio_code-%23483699.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 
 ## Contatos:
 
